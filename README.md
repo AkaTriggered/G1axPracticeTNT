@@ -51,7 +51,7 @@ The compiled JAR will be in the `target` folder.
 
 ## 📸 Screenshots
 
-![Console Startup](https://via.placeholder.com/600x300/2C2F33/FFFFFF?text=Premium+Console+Logging)
+![Console Startup](https://media.discordapp.net/attachments/1438491901119561739/1439196620284493825/image.png?ex=6919a3cd&is=6918524d&hm=a1f392174cbb12d3a5c45a33bf9db500dd7b5e424e1e12fcc717a229a7b7621a&=&format=webp&quality=lossless&width=848&height=387)
 
 *Beautiful ASCII art console logging on startup*
 
