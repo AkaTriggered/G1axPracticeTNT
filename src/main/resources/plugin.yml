@@ -1,0 +1,7 @@
+name: G1axPracticeTNT
+version: 1.0.0
+main: dev.akatriggered.Main
+api-version: 1.16
+author: g1ax / AkaTriggered
+description: TNT Addon for G1axPractice - Instant TNT explosions and fast creeper fuse for PvP practice servers
+website: https://github.com/AkaTriggered/G1axPracticeTNT
